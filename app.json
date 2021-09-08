@@ -1,0 +1,9 @@
+{
+ "name": "TelegramBotScraper",
+ "description": "idk.",
+ "keywords": ["telegram", "scrape", "api", "abuse", "roseloverx"],
+ "repository": "https://github.com/itzrexmodz/TelegramBotScraper",
+ "env": {"R": {"description": "Author", "value": "RoseLoverX"}},
+ "buildpacks": [{"url": "heroku/python"}]
+}
+
